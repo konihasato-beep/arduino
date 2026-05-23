@@ -1,4 +1,4 @@
-//MicrofanClcdPlus LineTrace Basic Ver.2.0 EX by yas. H26.1.26
+//MicrofanClcdPlus LineTrace Basic
 #include <ClcdPlus.h>
 // MD縺ｮpin險ｭ螳� ;MD1IN1->4, MD1IN2->5, MD2IN1->6, MD2IN2->7 
 
