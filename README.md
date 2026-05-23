@@ -1,3 +1,8 @@
+AVRマイコン 
+(ATMEGA328P)
+Arduino Uno
+Arduino IDE　　使用
+
 黒の右端をスタートとし、左の灰色の部分をゴールとしている(コース.png)
 コースが途中で途切れている。
 LinetraceSensV2GrayCharenge-lineは成功プログラム
